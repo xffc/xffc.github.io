@@ -8,6 +8,11 @@ const projects = [
         "path": "xffc/packetcatcher",
         "displayname": "Packet Catcher",
         "description": "A simple Minecraft mod for capturing packets and exporting them to a file."
+    },
+    {
+        "path": "xffc/teleutils",
+        "displayname": "TeleUtils",
+        "description": "A simple Telegram bot with the tools I use."
     }
 ]
 
