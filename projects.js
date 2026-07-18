@@ -1,8 +1,13 @@
 const projects = [
     {
-        "path": "xffc/codingbase",
-        "displayname": "YACPI",
-        "description": "Yet Another Creative Plus Implementation. It features an asynchronous runtime, code structure export, and a code editor with its own transpiler.",
+        "path": "xffc/teleutils",
+        "displayname": "TeleUtils",
+        "description": "A simple Telegram bot with the tools I use."
+    },
+    {
+        "path": "xffc/kmc",
+        "displayname": "KMC",
+        "description": "A project that allows you to work with the Minecraft network protocol."
     },
     {
         "path": "xffc/packetcatcher",
@@ -10,9 +15,9 @@ const projects = [
         "description": "A simple Minecraft mod for capturing packets and exporting them to a file."
     },
     {
-        "path": "xffc/teleutils",
-        "displayname": "TeleUtils",
-        "description": "A simple Telegram bot with the tools I use."
+        "path": "xffc/codingbase",
+        "displayname": "YACPI",
+        "description": "Yet Another Creative Plus Implementation. It features an asynchronous runtime, code structure export, and a code editor with its own transpiler.",
     }
 ]
 
